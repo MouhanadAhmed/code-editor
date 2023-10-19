@@ -13,7 +13,7 @@ import useKeyPress from "../hooks/useKeyPress";
 import OutputWindow from "./OutputWindow";
 import CustomInput from "./CustomInput";
 import OutputDetails from "./OutputDetails";
-import ThemeDropdown from "./ThemeDropdown";
+import ThemeDropdown from "./ThemeDropdown.jsx";
 import LanguagesDropdown from "./LanguagesDropdown";
 
 const javascriptDefault = `/**
